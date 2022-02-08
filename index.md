@@ -5,7 +5,7 @@
 ### Personal Introduction
 Frist Name:Jianjie.
 Last Name:Zhao.
-Now study in:[Qingdao Universary of Techology](http://www.qtech.edu.cn/).
+Now study in:[Qingdao Universary of Technology](http://www.qtech.edu.cn/).
 
 
 ### Research Report
